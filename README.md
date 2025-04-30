@@ -11,7 +11,7 @@
 <body>
     <h2>Click below to open the app:</h2>
     <a href="intent://open#Intent;scheme=myapp;package=com.example.myapplication;end">
-        Open My Android App
+        Open My Android App2
     </a>
 </body>
 </html>
